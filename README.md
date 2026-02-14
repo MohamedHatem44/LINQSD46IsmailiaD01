@@ -288,13 +288,6 @@ Or open the solution in Visual Studio and press **F5**
 
 ---
 
-# 👨‍💻 Author
-
-Mohamed Hatem  
-Software Engineer  
-
----
-
 # 📌 Key Takeaway
 
 LINQ is essentially:
@@ -305,3 +298,10 @@ LINQ is essentially:
 - IEnumerable  
 
 Combined together to create powerful, readable queries.
+
+# 👨‍💻 Author
+
+Mohamed Hatem  
+Software Engineer  
+
+---
